@@ -14,7 +14,7 @@ h1 {
     width: 160px;
     position: fixed; /*Fixed sidebar (stay in place on scroll) */
     z-index: 1;
-    top: 0;
+    top: 30px;
     left: 0;
     background-color: #111
     overflow-x: hidden; /* Disable horizontal scroll */
