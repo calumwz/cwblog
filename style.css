@@ -1,3 +1,14 @@
+.header {
+    background-color: black;
+    width: 100%; height: 30px;
+    text-align: left;
+}
+
+.h1 {
+    font-size: 25px
+    color: white;
+}
+
 .sidenav {
     height: 100% /* Full height */
     width: 160px;
