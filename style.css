@@ -11,7 +11,7 @@ header {
     width: 160px;
     position: fixed; /*Fixed sidebar (stay in place on scroll) */
     z-index: 1;
-    top: 20px;
+    top: 50px;
     left: 0;
     background-color: #111
     overflow-x: hidden; /* Disable horizontal scroll */
